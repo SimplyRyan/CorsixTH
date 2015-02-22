@@ -14,21 +14,26 @@ A reimplementation of the 1997 Bullfrog business sim Theme Hospital. As well as 
 
 You need a few files from the original game, head over to our [getting started](https://github.com/CorsixTH/CorsixTH/wiki/Getting-Started) page. Before you begin you will need the following:
 
-- Grab the latest release for your system [here](https://github.com/CorsixTH/CorsixTH/releases)
+- Grab the latest release for your system [here](https://github.com/CorsixTH/CorsixTH/releases).
 - We use graphics, sound and other date from the original game so one of the following is required:
  - Original game CD from ebay etc. or your dusty bookshelf:smile:
  - A download from [Good Old Games](http://www.gog.com/game/theme_hospital) or [Origin](https://www.origin.com/en-gb/store/buy/theme-hospital-origin/pc-download/base-game/standard-edition)
 
-## Developers - 
+## Developers 
 ### Coders and non-coders we want you!
 
-We are always looking for help with improving CorsixTH. The code base is made up for LUA and C++/C with most of the logic of the game written in LUA (we love LUA) hit fork and get started. But don't worry if you don't code as we can always use help with translation, level creation, art or improving the wiki! If you have ideas for the project please contact us!
+We are always looking for help with improving CorsixTH. The code base is made up of LUA and C++ (with a little C added in for fun) however most of the logic of the game written in LUA (we love LUA) hit fork and get started. But don't worry if you don't code as we can always use help with translation, level creation, art or improving the wiki! If you have ideas for the project please contact us!
 
-(to do)
 
- - [Installation](#installation)
- - [Documentation](#documentation)
- - [How to contribute](#how-to-contribute)
+###### Features & Bugfixes ######
+We still have features to add and bugs to fix, check out our [TODO](https://github.com/CorsixTH/CorsixTH/wiki/Programming-Ideas) list and the bugtracker [here](https://github.com/CorsixTH/CorsixTH/issues). Want to talk about adding a feature? post on our goggle group or [contact us](#Contact)
+
+###### Translation ######
+CorsixTH has translations for 18 languages, some need updates. Head over to our [dedicated forum section](http://forums.corsixth.com/index.php/board,11.0.html) for more information.
+
+###### Custom map creation ######
+
+Use our map creation application. Further reading [here](https://github.com/CorsixTH/CorsixTH/wiki/Map-Editor) and on our [forum](http://forums.corsixth.com/index.php/board,12.0.html).
 
 ## More
 
@@ -40,4 +45,4 @@ Our [wiki](https://github.com/CorsixTH/CorsixTH/wiki) is a good place to start, 
 - Follow us on twitter ([**@CorsixTH**](https://twitter.com/CorsixTH))
 - Find us on [Facebook](https://facebook.com/CorsixTH)
 - IRC #Corsix-TH on irc.freenode.net
-
+- Subscribe to our [Goggle Developer group](http://groups.google.com/group/corsix-th-dev)
