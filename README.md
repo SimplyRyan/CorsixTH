@@ -3,14 +3,20 @@
 CorsixTH
 ========
 
-A implementation of the 1997 Bullfrog business sim. Corsix adds support extends support for Windows and adds support for Mac OSX and Linux as well as higher resolutions and more languages!
+A reimplementation of the 1997 Bullfrog business sim Theme Hospital. As well as faithfully recreating the original CorixTH adds:
 
-Follow us on twitter ([**@CorsixTH**](https://twitter.com/CorsixTH)). :smile:
+- Support for Windows, Mac OSX and Linux
+- Higher resolutions and window mode
+- Supports almost all features of the original
 
 ![](http://i.imgur.com/qHV60Ui.png)
 
 
 ## Installation
+
+You need a few files from the original game, head over to our getting started page to read more or see below for a quickstart.
+
+
 
 ## Developers 
 
@@ -23,8 +29,8 @@ Follow us on twitter ([**@CorsixTH**](https://twitter.com/CorsixTH)). :smile:
 
 ## Contact
 
-Twitter @CorsixTH
-(Facebook [https://www.facebook.com/CorsixTH])
-IRC #Corsix-TH on irc.freenode.net
+- Follow us on twitter ([**@CorsixTH**](https://twitter.com/CorsixTH))
+- Find us on ([Facebook](https://facebook.com/CorsixTH)
+- IRC #Corsix-TH on irc.freenode.net
 
 
